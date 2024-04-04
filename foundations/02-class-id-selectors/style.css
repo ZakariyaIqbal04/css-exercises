@@ -1,0 +1,30 @@
+
+.odd_number{
+    background-color: lightcoral;
+    font-family: Verdana,DejaVu Sans, sans-serif;
+
+}
+
+.fontsize{
+    font-size: 24px;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* 
+
+* **The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px
+
+
+
+
+*/
